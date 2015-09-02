@@ -1,0 +1,737 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/texture.cpp",
+			"settings":
+			{
+				"buffer_size": 5159,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/paulheffernan/Library/Application Support/Sublime Text 3/Packages/User/make-build.sublime-build",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/common/objloader.hpp",
+			"settings":
+			{
+				"buffer_size": 386,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "shaders/texture.vert",
+			"settings":
+			{
+				"buffer_size": 208,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "shaders/texture.frag",
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/common/controls.cpp",
+			"settings":
+			{
+				"buffer_size": 3404,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/common/texture.cpp",
+			"settings":
+			{
+				"buffer_size": 6417,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 1261,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/make-build.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/test.sublime-build",
+					""
+				],
+				[
+					"Packages/User/test.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c++11.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/make-build.sublime-build",
+					""
+				],
+				[
+					"Packages/User/make-build.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/make-build.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/make-build.sublime-build",
+					""
+				],
+				[
+					"Packages/User/make-build.sublime-build",
+					"Runny"
+				]
+			],
+			[
+				"Packages/User/make-build.sublime-build",
+				"Runny"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"prv",
+				"Package Control: Remove Channel"
+			],
+			[
+				"Sub",
+				"SublimeGDB: Show Input Field"
+			],
+			[
+				"Project",
+				"Project: Save As"
+			],
+			[
+				"GDB",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"cont",
+			"quit",
+			"sublime.version()",
+			"subime.version()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial05_textured_cube",
+		"/Users/paulheffernan/Projects/xcode/open.gl/lotus",
+		"/Users/paulheffernan/Projects/xcode/open.gl/lotus/shaders",
+		"/Users/paulheffernan/Projects/xcode/open.gl/lotus/src",
+		"/Users/paulheffernan/Projects/xcode/open.gl/lotus/src/common"
+	],
+	"file_history":
+	[
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/common/texture.cpp",
+		"/Users/paulheffernan/Projects/ogldev-source/tutorial01/Makefile",
+		"/Users/paulheffernan/Projects/ogldev-source/tutorial01/tutorial01.cpp",
+		"/Users/paulheffernan/Projects/ogldev-source/tutorial16/tutorial16.cpp",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/common/controls.cpp",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial17_rotations/tutorial17.cpp",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial05_textured_cube/tutorial05.cpp",
+		"/Users/paulheffernan/Library/Application Support/Sublime Text 3/Packages/User/make-build.sublime-build",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/OpenGL-tutorial.sublime-project",
+		"/Users/paulheffernan/Projects/ogldev-source/tutorial16/Makefile",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial04_colored_cube/tutorial04.cpp",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial18_billboards_and_particles/tutorial18_billboards.cpp",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial18_billboards_and_particles/Billboard.fragmentshader",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial18_billboards_and_particles/Particle.fragmentshader",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial09_vbo_indexing/tutorial09_several_objects.cpp",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial09_vbo_indexing/tutorial09_AssImp.cpp",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial10_transparency/tutorial10.cpp",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial13_normal_mapping/tutorial13.cpp",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial13_normal_mapping/NormalMapping.fragmentshader",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial10_transparency/tutorial10_transparency",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial09_vbo_indexing/StandardShading.fragmentshader",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial18_billboards_and_particles/tutorial18_particles.cpp",
+		"/Users/paulheffernan/Library/Application Support/Sublime Text 3/Packages/User/c++11.sublime-build",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial09_vbo_indexing/tutorial09.cpp",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/build/tutorial18_particles",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial03_matrices/tutorial03.cpp",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial05_textured_cube/TextureFragmentShader.fragmentshader",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial16_shadowmaps/tutorial16.cpp",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial16_shadowmaps/ShadowMapping_SimpleVersion.fragmentshader",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial16_shadowmaps/SimpleTexture.fragmentshader",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/tutorial16_shadowmaps/ShadowMapping.fragmentshader",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/build/launch-tutorial04_colored_cube.sh",
+		"/Users/paulheffernan/Projects/OpenGL/OpenGL-tutorial_v0014_33/build/launch-tutorial02_red_triangle.sh",
+		"/Users/paulheffernan/Library/Application Support/Sublime Text 3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/Users/paulheffernan/Projects/euler/test/test.cpp",
+		"/Users/paulheffernan/Projects/euler/test/test.sublime-project",
+		"/Users/paulheffernan/Projects/glsl/landscape.glsl",
+		"/Users/paulheffernan/Projects/glsl/grid.glsl",
+		"/Users/paulheffernan/Projects/glsl/rays.glsl",
+		"/Users/paulheffernan/JapanItinerary.txt",
+		"/Users/paulheffernan/phone.log",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Makefile",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/raytrace/raytracer/GeometricObjects/GeometricObject.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/GeometricObjects/Plane.d",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/embree-renderer/devices/device_singleray/brdfs/lambertian.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/embree-renderer/devices/device_singleray/lights/pointlight.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/embree-renderer/devices/device_singleray/renderers/integratorrenderer.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/embree-renderer/devices/renderer/renderer.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Cameras/Camera.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Materials/Material.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/GeometricObjects/Sphere.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/GeometricObjects/GeometricObject.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Utilities/Vector3D.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Lights/AmbientLight.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Utilities/Normal.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Utilities/RGBColor.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Utilities/Vector3D.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Lights/PointLight.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Lights/Light.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/GeometricObjects/GeometricObject.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/GeometricObjects/Plane.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/GeometricObjects/Plane.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Utilities/ShadeRec.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/GeometricObjects/Sphere.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/World/World.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Image.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Tracers/Tracer.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/main.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/World/World.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Tracers/PointLight.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Tracers/Light.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Cameras/Camera.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Utilities/Timing.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Utilities/Timing.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/World/ViewPlane.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Tracers/Tracer.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/raytrace/raytracer/Utilities/RGBColor.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/raytrace/raytracer/Utilities/RGBColor.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Utilities/RGBColor.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Utilities/Ray.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Utilities/Ray.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/raytrace/raytracer/World/ViewPlane.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/raytrace/raytracer/Cameras/Camera.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/raytrace/Makefile",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Utilities/ShadeRec.cpp",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/Image.h",
+		"/Users/paulheffernan/Projects/xcode/open.gl/src/learn/ppmwrite.cpp",
+		"/Developer/NVIDIA/CUDA-6.5/samples/5_Simulations/nbody/nbody.cpp",
+		"/Developer/NVIDIA/CUDA-6.5/samples/2_Graphics/simpleGL/simpleGL.cu",
+		"/Developer/NVIDIA/CUDA-6.5/samples/2_Graphics/bindlessTexture/bindlessTexture.cpp",
+		"/Users/paulheffernan/Projects/3d/open.gl/triangle.cpp",
+		"/Users/paulheffernan/animalC++.txt",
+		"/Users/paulheffernan/Downloads/renderer-cuda-master/src/cudarenderer.cu",
+		"/Developer/NVIDIA/CUDA-6.5/samples/2_Graphics/Raytracer/CUDAraytracer.cu",
+		"/Users/paulheffernan/Projects/3d/open.gl/Makefile",
+		"/Users/paulheffernan/Projects/OpenGL/toonglut/Makefile",
+		"/Users/paulheffernan/Projects/CUDA/NVIDIA_CUDA-5.5_Samples/2_Graphics/RayTracer/CUDAraytracer.cu",
+		"/Users/paulheffernan/Sites/navigation-menu/style.css",
+		"/Users/paulheffernan/Sites/navigation-menu/index.html",
+		"/Users/paulheffernan/Projects/SOIL/AnimalLogicSeniorC++.txt",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/hdrexposure",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/ktxview",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/simpletexture",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/dof/display.fs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/dof/display.vs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/dof/gensat.cs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/flocking/flocking.cs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/flocking/render.fs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/flocking/render.vs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/fragmentlist/append.fs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/fragmentlist/append.vs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/fragmentlist/clear.fs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/fragmentlist/clear.vs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/fragmentlist/resolve.fs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/fragmentlist/resolve.vs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/gslayers/gslayers.gs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/hdrbloom/hdrbloom-filter.fs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/hdrbloom/hdrbloom-resolve.fs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/hdrtonemap/tonemap_exposure.fs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/hdrtonemap/tonemap_naive.fs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/prefixsum/prefixsum.cs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/prefixsum2d/prefixsum2d.cs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/prefixsum2d/showimage.fs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/prefixsum2d/showimage.vs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/ssao/ssao.fs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/bin/media/shaders/ssao/ssao.vs.glsl",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/src/hdrexposure/hdrexposure.cpp",
+		"/Users/paulheffernan/Projects/sb6code_2013_11_10/src/ktxview/ktxview.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"window",
+			"-I",
+			"triangle",
+			"texture2D",
+			"Cursor",
+			"mouseSpeed",
+			"texture",
+			"255",
+			" {",
+			"hit",
+			"test",
+			"runCud",
+			"calculateRefrac",
+			"calculateReflec",
+			"error: expression must have a constant value",
+			"calculateREflec",
+			"calculateReflection",
+			"printf(\"Debug %d\", i++);",
+			"s",
+			"#version 430 core",
+			"#version 410 core",
+			"#version 430 core",
+			"GLFW_OPENGL_VERSION_MINOR",
+			"2",
+			"0xdd7744"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tutorial01",
+			"1.0",
+			"",
+			"#version 410 core",
+			"sb6code_2013_11_10",
+			"Searching"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/texture.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4506,
+								4506
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1767.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/paulheffernan/Library/Application Support/Sublime Text 3/Packages/User/make-build.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/common/objloader.hpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "shaders/texture.vert",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "shaders/texture.frag",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/common/controls.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/common/texture.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1047,
+								1047
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/make-build.sublime-build",
+	"project": "lotus.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
