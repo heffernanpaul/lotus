@@ -13,13 +13,13 @@ INCLUDES +=  $(addprefix -I, $(wildcard src/*))
 
 LDLIBS := $(LIBRARIES)
 WXINCLUDES := -I/usr/local/lib/wx/include/osx_cocoa-unicode-static-3.0 -I/usr/local/include/wx-3.0 -D_FILE_OFFSET_BITS=64 -DwxDEBUG_LEVEL=0 -D__WXMAC__ -D__WXOSX__ -D__WXOSX_COCOA__
-#CXXFLAGS := -std=c++0x $(WXINCLUDES) $(INCLUDES) -MMD
 CXXFLAGS := -std=c++0x -DDEBUG -g $(WXINCLUDES) $(INCLUDES) -MMD
 
-all: texture
+all: main
 
 SRCS := $(wildcard src/*.c*)
 SRCS += $(wildcard src/common/*.c*)
+SRCS += $(wildcard src/model/*.c*)
 OBJS=$(subst .cpp,.o,$(SRCS))
 
 DEPS = $(SRCS:.cpp=.d)
@@ -29,11 +29,11 @@ DEPS = $(SRCS:.cpp=.d)
 
 
 
-texture: $(OBJS)
-	g++ $(CXXFLAGS) $(LIBRARIES) -o texture $(OBJS)
+main: $(OBJS)
+	g++ $(CXXFLAGS) $(LIBRARIES) -o main $(OBJS)
 
 clean:
 	$(RM) $(OBJS) $(DEP)
 
 dist-clean: clean
-	$(RM) texture
+	$(RM) main
