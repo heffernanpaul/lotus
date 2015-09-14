@@ -12,6 +12,12 @@
 		},
 		{
 			"path": "/Users/paulheffernan/Projects/xcode/open.gl/src/raytrace"
+		},
+		{
+			"path": "/Users/paulheffernan/Projects/xcode/open.gl/LearnOpenGL"
+		},
+		{
+			"path": "/usr/local/include"
 		}
 	]
 }

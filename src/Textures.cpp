@@ -1,3 +1,4 @@
+#include <SOIL.h>
 #include "Textures.h"
 #include "texture.hpp"
 #include <dirent.h>
@@ -18,12 +19,10 @@ void Textures::loadTextures(const std::string& folder) {
 	   while ((epdf = readdir(dpdf))){
 	   		if (epdf->d_name[0] != '.') {
 		      	std::string name(epdf->d_name);
-		      	std::cout << "Filename: " << name << std::endl;
 		      	filenames.push_back(name);
 		      }
 	   }
 	}
-  	std::cout << "Generating Textures" << std::endl;
     idList = new GLuint[filenames.size()];
     glGenTextures(filenames.size(), idList);
 
@@ -38,7 +37,6 @@ GLuint Textures::getTexture(const std::string& name) {
 
 	for (int i = 0; i < filenames.size(); i++) {
 		if (filenames[i] == name) {
-			std::cout << "Found texture : " << idList[i] << std::endl;
 			return idList[i];
 		}
 	}
